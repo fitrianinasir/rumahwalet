@@ -1,0 +1,24 @@
+.bg-color{
+
+    background-color:#0c2035;
+    /* background: #A52A2A url(../pattern.png);
+    background-size: 120px; */
+}
+
+#bg-img{
+    background: url("https://source.unsplash.com/_WR6tUIAJe8/600x800");
+    background-position: center;
+    background-size: cover;
+}
+
+.btn-color{
+    color : white;
+    background-color :#0c2035;
+    font-weight: bold;
+}
+
+.posisi{
+    position: relative;
+    width: 80%;
+    margin-top: 20%;
+}
